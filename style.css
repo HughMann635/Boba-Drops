@@ -1,0 +1,32 @@
+body {
+	font-family: system-ui, sans-serif;
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: center;
+	background: lightskyblue;
+}
+button {
+	padding: 0.6rem 1.2rem;
+	font-size: 1rem;
+	border-radius: 8px;
+	border: 0;
+	background: #FFFFFF;
+	color: blue;
+	cursor: pointer;
+}
+img {
+	width:600px;
+	height:337px;
+	place-content: center;
+}
+h1 {
+	color: blue;
+}
+h2 {
+	color: #000044;
+}
+h3 {
+	color: #5555FF;
+}
